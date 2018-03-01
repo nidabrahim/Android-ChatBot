@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#0277BD</color>
+    <color name="colorAccent">#546E7A</color>backcoloraff
+    <color name="bluea">#e4f1fe</color>
+    <color name="white">#ffffff</color>
+    <color name="wetasphalt">#34495e</color>
+    <color name="backcoloraff">#bdc3c7</color>
+    <color name="backchat">#ecf0f1</color>
+    <color name="chatsender">#7f8c8d</color>
+    <color name="colorgray">#ECECEC</color>
+    <color name="blueciel">#00A7E5</color>
+    <color name="whiteblue">#E4F7FD</color>
+    <color name="light_gray">#EEEEEE</color>
+
+    <color name="Teal">#2984c3</color>
+    <color name="SlateGray">#4C7D7E</color>
+    <color name="Purple">#7D4B7C</color>
+    <color name="Green">#008000</color>
+    <color name="MedTurquoise">#48CCCD</color>
+    <color name="IndianRed">#7E2217</color>
+
+
+    <color name="chat_sdk_theme_color">@android:color/holo_blue_dark</color>
+
+    <color name="screen1">#DEECE9</color>
+    <color name="screen2">#19837E</color>
+    <color name="screen3">#BDC3C7</color>
+
+    <color name="dot_dark_screen1">#C2185B</color>
+    <color name="dot_dark_screen2">#6A1B9A</color>
+    <color name="dot_dark_screen3">#00695C</color>
+
+    <color name="dot_light_screen1">#F8BBD0</color>
+    <color name="dot_light_screen2">#E1BEE7</color>
+    <color name="dot_light_screen3">#80CBC4</color>
+
+
+    <array name="dot_active">
+        <item>@color/wetasphalt</item>
+        <item>@color/wetasphalt</item>
+        <item>@color/wetasphalt</item>
+    </array>
+    <array name="dot_inactive">
+        <item>@color/backchat</item>
+        <item>@color/backchat</item>
+        <item>@color/backchat</item>
+    </array>
+    
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_chat"
+            android:title="Chat" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_translate"
+            android:title="Traducteur" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_quotes"
+            android:title="Citation" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_game"
+            android:title="Game" />
+    </group>
+
+    <item android:title="Parametre">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_action_settings"
+                android:title="Parametre" />
+        </menu>
+    </item>
+
+</menu>

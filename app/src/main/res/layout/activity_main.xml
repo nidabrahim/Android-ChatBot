@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.youssefnida.winou.MainActivity"
+    android:background="@drawable/homescreen"
+    android:weightSum="1">
+
+
+
+
+    <android.support.v7.widget.ContentFrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_weight="0.94">
+
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:baselineAligned="false"
+            android:weightSum="1">
+
+                    <View
+                        android:id="@+id/view"
+                        android:layout_width="fill_parent"
+                        android:layout_height="315dp"
+                        android:layout_alignParentTop="true" />
+
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="40dp"
+            android:text="Winou App"
+                android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:textColor="@color/white"
+            android:id="@+id/winou" />
+
+
+            <TextView
+                        android:text="Votre meilleur ami virtuel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                android:textColor="@color/white"
+
+                android:id="@+id/desc" />
+
+
+
+
+    </LinearLayout>
+
+
+    </android.support.v7.widget.ContentFrameLayout>
+
+
+
+
+
+</LinearLayout>

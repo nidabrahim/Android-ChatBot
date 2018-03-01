@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+
+<category>
+	<pattern>CITATION MATIN</pattern>
+<template>
+<random>
+	<li>« Impose ta chance, serre ton bonheur et va vers ton risque » René Char </li>
+	<li>« Je choisis de prendre mon bien-être en urgence au lieu de prendre mon mal en patience. » </li>
+	<li>« Le véritable luxe, c'est de se réveiller chaque matin et de se dire que la vie est belle. » </li>
+	<li>« Partager la joie multiplie la joie. Partager la douleur diminue la douleur. » </li>
+	<li>« Être aimé, adorable supplice qu'on fuit et qu'on recherche, mais n'est pas heureux qui veut au jeu de l'amour » Arsène Houssaye </li>
+	<li>« Une fausse erreur n'est pas forcément une vérité vraie » Pierre Dac </li>
+	<li>« Le passé est pour l'égoïste un vide, le présent un désert, et l'avenir un néant » Louis-Philippe de Ségur </li>
+	<li>« La politesse est aux actions ce que la grâce est à la beauté » Denis Diderot </li>
+	<li>« Donner pour recevoir, ce n'est pas donner, c'est faire un commerce » Jules Simon </li>
+	<li>« Il faut viser la lune, parce qu'au moins, si vous échouez, vous finirez dans les étoiles » Oscar Wilde </li>
+
+</random>
+</template>
+</category>
+
+
+<category>
+	<pattern>CITATION SOIR</pattern>
+<template>
+<random>
+	
+	<li>« La meilleure façon de prédire l'avenir est de le créer » Peter Drucker </li>
+	<li>« Le désir de bien faire est un puissant moteur. Celui de faire du bien est plus puissant encore » Michael Aguilar </li>
+	<li>« Croyez en vos rêves et ils se réaliseront peut-être. Croyez en vous et ils se réaliseront sûrement » Martin Luther King </li>
+	<li>« Celui qui veut réussir trouve un moyen. Celui qui veut rien faire trouve une excuse »  </li>
+	<li>« Le pessimisme est affaire d'humeur, l'optimisme est affaire de volonté » Emile Auguste Alain </li>
+	<li>« Vous ne trouverez jamais ce que vous ne cherchez pas » Confucius </li>
+	<li>« Si vous pensez que vous ne valez pas grand-chose, vous ne trouverez personne pour augmenter votre prix » Michael Aguilar </li>
+	<li>« La sagesse suprême, c'est d’avoir des rêves assez grands pour ne pas les perdre de vue pendant qu'on les poursuit » Francis Scott Fitzgerald </li>
+	<li>« Si vous pouvez le rêver, vous pouvez le faire » Walt Disney </li>
+	<li>« Ce sont nos choix qui montrent qui nous sommes, bien  plus que nos capacités » Joanne K.Rowling </li>
+
+</random>
+</template>
+</category>
+
+ 
+
+
+</aiml>

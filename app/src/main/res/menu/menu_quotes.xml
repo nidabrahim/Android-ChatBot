@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.youssefnida.winou.QuotesActivity">
+
+    <item
+        android:id="@+id/action_share"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_share"
+        android:title="Partage"/>
+
+    <item
+        android:id="@+id/action_favoris"
+        android:title="Favoris"
+        app:showAsAction="never" />
+</menu>
